@@ -1,0 +1,15 @@
+flask
+flask-login
+flask-bcrypt
+python-dotenv
+requests
+transformers
+torch
+spacy
+webauthn
+pydantic
+deep_translator
+twilio
+geocoder
+qrcode[pil]
+dateutils

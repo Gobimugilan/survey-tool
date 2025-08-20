@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Generate a 3-question survey about music problem faced now.",
+    "completion": "[{\"type\": \"OPEN\", \"text\": \"Error: API key not configured.\", \"options\": []}]"
+  },
+  {
+    "prompt": "Generate a 3-question survey about music field that faced problems till now.",
+    "completion": "[{\"type\": \"OPEN\", \"text\": \"What are your thoughts on music field that faced problems till now?\", \"options\": []}, {\"type\": \"OPEN\", \"text\": \"What are your thoughts on music field that faced problems till now?\", \"options\": []}, {\"type\": \"OPEN\", \"text\": \"What are your thoughts on music field that faced problems till now?\", \"options\": []}]"
+  }
+]
